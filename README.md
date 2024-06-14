@@ -2,7 +2,8 @@
 
 VoIP-Server is a SIP server application that allows you to create a VOIP server on a mobile device.
 
-https://github.com/EngineerMazid/VoIP-Server/assets/152702183/0ed529bb-fb88-49f3-966e-c3f52bda4f53
+![about_usipserver_0](https://github.com/EngineerMazid/VoIP-Server/assets/152702183/8446e68d-8784-44d0-bfc9-b3deeaae29fa)
+
 
 ## Quick Start Guide
 
